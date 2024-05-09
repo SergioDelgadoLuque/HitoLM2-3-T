@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Encuesta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="centro">
+
+
+        <h1>Encuesta</h1>
+        <label for="sexo">Filtrar por sexo:</label>
+        <select id="sexo">
+            <option value="">Todos</option>
+            <option value="Femenino">Femenino</option>
+            <option value="Masculino">Masculino</option>
+        </select>
+        <label for="grado">Filtrar por grado:</label>
+        <input type="text" id="grado" placeholder="10,9,8,7,6...">
+
+        <label for="actividades">Interés en actividades extracurriculares:</label>
+        <select id="actividades">
+            <option value="">Todos</option>
+            <option value="Sí">Sí</option>
+            <option value="No">No</option>
+        </select>
+        <br><br>
+        <button onclick="applyFilters()">Aplicar filtros</button>
+    </div>
+    <div id="data-container">
+        <!-- Los datos de la encuesta se cargarán aquí -->
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

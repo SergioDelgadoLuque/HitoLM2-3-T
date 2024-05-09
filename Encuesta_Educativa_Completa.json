@@ -1,0 +1,282 @@
+[
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"7\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":3,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Instituto Nacional",
+        "Grado":"9\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":3,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"11\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":1,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Instituto Nacional",
+        "Grado":"10\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Instituto Nacional",
+        "Grado":"8\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":2,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"9\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":4,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Colegio Moderno",
+        "Grado":"9\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Colegio Internacional",
+        "Grado":"8\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Escuela B\u00e1sica Central",
+        "Grado":"9\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":2,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Escuela B\u00e1sica Central",
+        "Grado":"10\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":4,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"7\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":4,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"7\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":4,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Colegio Internacional",
+        "Grado":"12\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Instituto Nacional",
+        "Grado":"8\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":1,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Instituto Nacional",
+        "Grado":"11\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"11\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Escuela B\u00e1sica Central",
+        "Grado":"12\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":2,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Instituto Nacional",
+        "Grado":"9\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":2,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Escuela B\u00e1sica Central",
+        "Grado":"11\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":2,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"10\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"12\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Instituto Nacional",
+        "Grado":"9\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":2,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Colegio Moderno",
+        "Grado":"8\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":3,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Colegio Internacional",
+        "Grado":"7\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":4,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Colegio Moderno",
+        "Grado":"8\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":1,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Colegio Internacional",
+        "Grado":"8\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":4,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"10\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":3,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Colegio Moderno",
+        "Grado":"7\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":3,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"11\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Instituto Nacional",
+        "Grado":"10\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":2,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Escuela B\u00e1sica Central",
+        "Grado":"8\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Colegio Moderno",
+        "Grado":"7\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Colegio Moderno",
+        "Grado":"10\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":2,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"12\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":2,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Academia La Paz",
+        "Grado":"12\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":1,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Colegio Moderno",
+        "Grado":"7\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":4,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    },
+    {
+        "Centro Educativo":"Escuela B\u00e1sica Central",
+        "Grado":"8\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":3,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Colegio Internacional",
+        "Grado":"7\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":5,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Colegio Internacional",
+        "Grado":"10\u00b0",
+        "Sexo":"Masculino",
+        "Satisfacci\u00f3n":1,
+        "Inter\u00e9s en Actividades Extracurriculares":"No"
+    },
+    {
+        "Centro Educativo":"Instituto Nacional",
+        "Grado":"11\u00b0",
+        "Sexo":"Femenino",
+        "Satisfacci\u00f3n":4,
+        "Inter\u00e9s en Actividades Extracurriculares":"S\u00ed"
+    }
+]
